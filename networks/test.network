@@ -5,7 +5,7 @@
     <changePasswordTemplate>unfiled$public/CommunityChangePasswordEmailTemplate</changePasswordTemplate>
     <communityRoles/>
     <disableReputationRecordConversations>false</disableReputationRecordConversations>
-    <emailSenderAddress>pjha28538@gmail.com</emailSenderAddress>
+    <emailSenderAddress>krishna21ranjan@gmail.com</emailSenderAddress>
     <emailSenderName>test</emailSenderName>
     <embeddedLoginEnabled>false</embeddedLoginEnabled>
     <enableApexCDNCaching>false</enableApexCDNCaching>
