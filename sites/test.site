@@ -23,7 +23,5 @@
     <redirectToCustomDomain>false</redirectToCustomDomain>
     <referrerPolicyOriginWhenCrossOrigin>true</referrerPolicyOriginWhenCrossOrigin>
     <selfRegPage>CommunitiesSelfReg</selfRegPage>
-    <siteAdmin>pjha28538.06f75064931e@agentforce.com</siteAdmin>
-    <siteGuestRecordDefaultOwner>pjha28538.06f75064931e@agentforce.com</siteGuestRecordDefaultOwner>
     <siteType>ChatterNetwork</siteType>
 </CustomSite>
