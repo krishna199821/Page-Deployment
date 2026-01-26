@@ -1,0 +1,68 @@
+{
+  "appPageId" : "521bf784-38d9-4d88-8073-826cc9671d27",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "dataProviders" : [ ],
+  "id" : "4a77ff35-3b5b-4ad1-aeef-5d345d50a246",
+  "label" : "getTestPage",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p>Krishna Version One.Version2..... </p>"
+      },
+      "componentName" : "forceCommunity:htmlBlock",
+      "id" : "63c8aaec-684a-4211-9b79-7464f9430916",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "f68fc2f8-8571-4698-8fbc-25a1c0c0328d",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p>Ishwar HTMl Editor V1</p>"
+      },
+      "componentName" : "forceCommunity:htmlBlock",
+      "id" : "d2f12cdf-9c03-4e59-9c8f-fa839960e6de",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "089ff850-fd37-4c3d-b8f3-0863ff517111",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p>Added some words for Tracking....</p>"
+      },
+      "componentName" : "forceCommunity:htmlBlock",
+      "id" : "b5469bd9-42f0-4ab0-a5ee-950682c6d828",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "54466369-889e-46d2-9642-0cb115a9bae8",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customHeadTags" : "",
+        "description" : "",
+        "title" : "getTestPage"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "cb69e626-516d-47db-9b61-3294b0021485",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "6c057fbe-20e8-4150-acd0-a6c5162bdcc1",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-gettestpage"
+}
