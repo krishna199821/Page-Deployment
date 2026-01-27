@@ -1,0 +1,54 @@
+{
+  "appPageId" : "521bf784-38d9-4d88-8073-826cc9671d27",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "dataProviders" : [ ],
+  "id" : "5c93625a-aa50-4799-96df-98cb0931e9fc",
+  "label" : "getTestPageTwo",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "bannerText" : "Hi this is headline",
+        "bannerTextWithKnowledge" : "Explore other <a href=\"javascript:void(0)\" class=\"headlineArticles\">articles</a> and <a href=\"javascript:void(0)\" class=\"headlineDiscussions\">discussions</a> on this topic.",
+        "bannerTextWithoutKnowledge" : "Explore other <a href=\"javascript:void(0)\" class=\"headlineDiscussions\">discussions</a> on this topic.",
+        "pageType" : "",
+        "showSubTopics" : true,
+        "title" : "Welcome Krishna!",
+        "uniqueNameOrId" : ""
+      },
+      "componentName" : "forceCommunity:headline",
+      "id" : "9c1b0e7c-4e84-49e6-85aa-2ef28ac49a80",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "cea0996d-069d-491e-9c3e-23ac97bf6a95",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "id" : "14e1a7cc-fec0-44bb-bd84-949e8a1c38b2",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "009c4d68-4b8c-43eb-9e23-4950f3511fc4",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customHeadTags" : "",
+        "description" : "",
+        "title" : "getTestPageTwo"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "4f1ee089-62c3-403e-9d34-4168e800db70",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "07f18237-1221-479b-9a36-59b2323c5b04",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-gettestpagetwo"
+}
