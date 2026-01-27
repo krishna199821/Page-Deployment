@@ -21,7 +21,7 @@
   }, {
     "components" : [ {
       "componentAttributes" : {
-        "richTextValue" : "<p>Ishwar HTMl Editor V1</p>"
+        "richTextValue" : "<p>Ishwar HTMl Editor V1.SOme Changes...</p>"
       },
       "componentName" : "forceCommunity:htmlBlock",
       "id" : "d2f12cdf-9c03-4e59-9c8f-fa839960e6de",

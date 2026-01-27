@@ -1,0 +1,12 @@
+{
+  "activeViewId" : "5c93625a-aa50-4799-96df-98cb0931e9fc",
+  "appPageId" : "521bf784-38d9-4d88-8073-826cc9671d27",
+  "configurationTags" : [ ],
+  "devName" : "getTestPageTwo__c",
+  "id" : "742de06e-75ec-4f04-bde8-15724b143dd5",
+  "label" : "getTestPageTwo",
+  "pageAccess" : "UseParent",
+  "routeType" : "custom-gettestpagetwo",
+  "type" : "route",
+  "urlPrefix" : "gettestpagetwo"
+}
