@@ -1,0 +1,48 @@
+{
+  "appPageId" : "521bf784-38d9-4d88-8073-826cc9671d27",
+  "componentName" : "siteforce:sldsOneColLayout",
+  "dataProviders" : [ ],
+  "id" : "1b8f790a-19f1-4a5f-aecb-ff3d975a3ff3",
+  "label" : "getTestThird",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<p>Demo THird page...Sreeja Team.</p>"
+      },
+      "componentName" : "forceCommunity:htmlBlock",
+      "id" : "d90e69b8-b764-460f-afca-97bef1ab2ec3",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "3592fc03-dfbd-470c-8970-8d8401952709",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "id" : "12fd73c7-2fb9-4677-9b73-528ad0466110",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "id" : "9f03c0f3-1f25-4119-affd-359bf71ca450",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customHeadTags" : "",
+        "description" : "",
+        "title" : "getTestThird"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "a88acbf2-045e-483b-aed2-51b443a48458",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "a5743f97-4640-4926-8f8e-bbdd0423e18d",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "custom-gettestthird"
+}
